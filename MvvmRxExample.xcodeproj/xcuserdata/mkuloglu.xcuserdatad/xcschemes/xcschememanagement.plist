@@ -7,7 +7,20 @@
 		<key>MvvmRxExample.xcscheme_^#shared#^_</key>
 		<dict>
 			<key>orderHint</key>
-			<integer>0</integer>
+			<integer>5</integer>
+		</dict>
+	</dict>
+	<key>SuppressBuildableAutocreation</key>
+	<dict>
+		<key>16A3069B21B7B77C00A6E6A3</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>16A306AF21B7B77F00A6E6A3</key>
+		<dict>
+			<key>primary</key>
+			<true/>
 		</dict>
 	</dict>
 </dict>
